@@ -1,0 +1,50 @@
+*{margin: 0;padding: 0}
+a{text-decoration: none;color: black}
+.call{width: 100%;height: 27px;}
+.call1{font-size: 12px;float: left;margin:5px 185px;}
+.call2{font-size: 12px;float: right;margin:5px 202px;}
+.nav{width: 100%;height: 72px;}
+.nav .nav_left{float: left;}
+.nav .nav_left img{margin-left: 180px}
+.nav .nav_left p{display: inline;margin-bottom:10px;color: lightgray}
+.nav .nav_left .p1{font-size: 20px}
+.nav .nav_right{float: right}
+.nav .nav_right ul{margin-right:200px;margin-top: 40px}
+.nav .nav_right ul li{display: inline-block;padding-left: 50px;font-size: 15px;}
+.black{width: 100%;height:10px;background-color: darkgray}
+.head{width: 100%;height: 235px;}
+.title{width: 100%;height: 43px;}
+.title p{margin-left: 180px;padding-top: 10px}
+.main1{margin: 30px 14%}
+.main1 .main1Title1 .mtp{display: inline-block;}
+.main1 .main1Title1 .mtp p{padding-top: 10px;}
+.main1 .main1Title2 {margin-top: 25px;font-size: 15px}
+.main1 .main1Title2 ul li{list-style-type:none;font-size: 10px;padding-top: 8px}
+.main2{margin: 30px 14%}
+.main2 .main2Title1 .mtp{display: inline-block;}
+.main2 .main2Title1 .mtp p{padding-top: 10px;}
+.main2 .main2Title2 {margin-top: 25px;font-size: 15px}
+.main2 .main2Title2 ul li{list-style-type:none;font-size: 10px;padding-top: 8px}
+.foot1{margin: 60px 14%}
+.foot1 p{font-size: 25px}
+.foot1 .line{width: 980px;height:1px;background-color: black;margin-top: 15px}
+.foot1 .title1{margin-top: 25px}
+.foot1 .title1 p{font-size: 16px}
+.foot1 .title1 ul{margin: 15px 20px}
+.foot1 .title1 ul li{font-size: 10px;padding-top: 10px;color:gray}
+.foot1 .title1 ul li a{color:gray}
+.foot2{margin: 60px 14%}
+.foot2 .p1{font-size: 25px}
+.foot2 .p2{font-size: 16px}
+.foot2 .line{width: 980px;height:1px;background-color: black;margin-top: 15px}
+.foot2 .title2 .p2{margin-top: 20px;font-size: 16px;}
+.foot2 .title2 .p3{margin-top: 15px}
+.foot2 .title2 .p3,.p4{font-size: 10px;padding-top: 10px;color:grey;}
+.foot2 .title2 ul{margin-left:20px}
+.foot2 .title2 ul li{font-size: 10px;padding-top: 10px;color:grey;list-style-type: decimal-leading-zero}
+.bottom1{width: 100%;height: 27px;background-color:#B3BDC6;margin-top: 130px}
+.bottom1 ul{text-align: center;}
+.bottom1 ul li{list-style-type:none;font-size: 10px;display: inline-block;border-right: 1px solid gray;padding:0px 15px 0px 10px;vertical-align: bottom}
+.bottom1 ul li:last-child{border-right:none;}
+.bottom2{width: 100%;height: 32px;padding-top: 20px;background-color: #ECECEC}
+.bottom2 p{font-size: 10px;text-align: center;color: #676767}
